@@ -24,3 +24,6 @@ markdown 是一個電腦語言(computer language)  不是程式語言(programmin
 5. 反頓號代表顯示題目
 6. `>` 引用
 7. `[]()` 超連結
+
+> 中國時報說
+> https://www.chinatimes.com/realtimenews/20250923003112-260404?ctrack=pc_main_recmd_p03&chdtv
