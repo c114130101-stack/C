@@ -27,3 +27,5 @@ markdown 是一個電腦語言(computer language)  不是程式語言(programmin
 
 > 中國時報說
 > https://www.chinatimes.com/realtimenews/20250923003112-260404?ctrack=pc_main_recmd_p03&chdtv
+
+現在在假機器上修改的內容
